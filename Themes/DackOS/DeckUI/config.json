@@ -1,0 +1,38 @@
+{
+    "name":"DackOS",
+    "font":"Roboto-Regular",
+    "fontascii":"Roboto-Regular",
+    "fontsize":{
+        "nav_font1":32,
+        "nav_font2":24,
+        "content_font1":28,
+        "content_font2":24,
+        "content_font3":48,
+        "content_font4":72,
+        "content_font5":28,
+        "content_font6":28,
+        "stat_font1":24,
+        "menu_font1":36,
+        "popup_font1":44,
+        "popup_font2":36,
+        "popup_font3":36
+    },
+    "fontcolor":{
+        "nav_color1": "#FFFFFFFF",     
+        "nav_color2": "#B0B0B0FF",     
+        "nav_color3": "#808080FF",    
+        "content_color1": "#FFFFFFFF", 
+        "content_color2": "#9FBFDF80", 
+        "content_color3": "#5A7D9FFF", 
+        "content_color4": "#E6E6E6FF",
+        "stat_color1": "#FFFFFFFF",    
+        "stat_color2": "#808080FF",   
+        "menu_color1": "#E6E6E6FF",     
+        "menu_color2": "#B0B0B0FF",    
+        "popup_color1": "#FFFFFFFF",  
+        "popup_color2": "#E6E6E6FF",  
+        "popup_color3": "#808080FF",    
+        "highlight_color1": "#3399FFFF",
+        "shadow_color1": "#000000FF" 
+    }
+} 
